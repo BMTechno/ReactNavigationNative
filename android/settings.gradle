@@ -1,0 +1,3 @@
+rootProject.name = 'WAClone'
+
+include ':app'
